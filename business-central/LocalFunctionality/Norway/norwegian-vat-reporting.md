@@ -8,7 +8,7 @@ ms.topic: conceptual
 ms.devlang: na
 ms.tgt_pltfrm: na
 ms.workload: na
-ms.search.form: 737, 738, 10601, 10604
+ms.search.form: 737, 738, 743, 10601, 10604
 ms.date: 01/31/2022
 ms.author: edupont
 
