@@ -15,7 +15,11 @@ ms.author: edupont
 ---
 # VAT-VIES Reporting in the Danish Version
 
-Danish companies must submit VAT declarations for trade of goods or services with other EU countries/regions. You can create the required file by using the **EC Sales List** report.  
+Danish companies must submit VAT declarations for trade of goods or services with other EU countries/regions. You can create the required file by using the **EC Sales List** report.
+
+## VAT Registration No. Setup
+
+To ensure accurate VAT-VIES Reporting, you must enter only VAT number in the **VAT Registration No.** on Customer and Vendor cards. That means you cannot add country codes or other shortcuts as VAT-VIES Reporting requires only clear VAT number of clients.
 
 ## Reporting EU Sales
 
